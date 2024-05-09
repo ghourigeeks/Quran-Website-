@@ -1,4 +1,4 @@
-### Demo Project: Future Plans for Responsive Design, Styled Chapters, and Translation Implementation
+# Demo Project: Future Plans for Responsive Design, Styled Chapters, and Translation Implementation
 
 Inshallah 🙏, this project envisions implementing exciting features and enhancements in the future. We aim to enhance the user experience by making the application responsive across all devices, styling the chapter detail page for improved aesthetics, and introducing innovative translation functionality.
 
@@ -16,7 +16,7 @@ One of the exciting features we plan to introduce is dynamic translation on hove
 # 4. Interactive Word Playback:
 Another innovative feature we aspire to implement is the ability to play the pronunciation of each word upon clicking. This feature will provide users with auditory reinforcement, aiding in language learning and pronunciation practice.
 
-## Future Plans:
+# Future Plans:
 
 Once the initial tasks are completed, we aim to transition this project into an advanced React.js application. Leveraging the power and flexibility of React.js, we will further enhance the application with additional features, optimizations, and performance improvements.
 
